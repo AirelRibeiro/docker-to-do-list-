@@ -1,1 +1,1 @@
-docker pull nginx:1.21.3-alpine-perl
+docker pull nginx:1.21.3-alpine
