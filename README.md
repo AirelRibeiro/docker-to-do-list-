@@ -21,6 +21,8 @@ O Docker é uma plataforma aberta, que facilita o desenvolvimento, a implantaç�
 
 ## Rodando o projeto na sua máquina:
 
+Se você ainda não tiver o Docker instalado na sua máquina [siga os passos deste link](https://docs.docker.com/engine/install/ubuntu/#:~:text=/dev/null-,Install%20Docker%20Engine,-Update%20the%20apt) antes de continuar.
+
 1. Escolha um diretório e clone o repositório utilizando **git clone**:
 ```
   git clone git@github.com:AirelRibeiro/docker-to-do-list-.git
